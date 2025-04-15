@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Genomics, Multi-Omics, Data Science in Healthcare**
 
-- 📫 How to reach me **ssbajpai@andrew.cmu.edu**
+- 📫 How to reach me **ssbajpai@alumni.cmu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
